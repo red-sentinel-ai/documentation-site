@@ -14,7 +14,7 @@
       {
         "group": "Introduction",
         "pages": [
-          "introduction/what-is-sui-sentinel",
+          "introduction/what-is-red-sentinel",
           "introduction/use-cases",
           "introduction/quick-start"
         ]
@@ -90,7 +90,7 @@
     "links": [
       {
         "label": "Support",
-        "href": "https://t.me/suisentinel"
+        "href": "https://t.me/redsentinel_ai"
       }
     ],
     "primary": {
@@ -102,8 +102,8 @@
   "footer": {
     "socials": {
       "x": "https://x.com/redsentinel_ai",
-      "telegram": "https://t.me/suisentinel",
-      "github": "https://github.com/sui-sentinel"
+      "telegram": "https://t.me/redsentinel_ai",
+      "github": "https://github.com/red-sentinel-ai"
     }
   }
 }

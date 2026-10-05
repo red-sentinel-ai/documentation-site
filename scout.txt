@@ -144,7 +144,7 @@ Subject to cap: Max 2,500 SENTINEL/month (25% of your direct commission from tha
 
 **Custom Landing Pages**
 
-- Personalized URL: `suisentinel.io/scout/YourName`
+- Personalized URL: `redsentinel.xyz/scout/YourName`
 - Real-time analytics dashboard
 - A/B testing for messaging
 - Conversion funnel insights
@@ -274,7 +274,7 @@ High-quality educational content accelerates ecosystem understanding and attract
 
 **Step 1: Proposal Submission**
 
-- Submit outline/script to `content@suisentinel.io` or governance forum
+- Submit outline/script to `content@redsentinel.xyz` or governance forum
 - Include target audience, distribution plan, timeline
 - Estimated impact metrics
 
@@ -427,7 +427,7 @@ All Gold responsibilities plus:
 
 **Step 1: Application** (Rolling basis)
 
-- Submit form at `suisentinel.io/ambassador-apply`
+- Submit form at `redsentinel.xyz/ambassador-apply`
 - Include: background, relevant experience, contribution ideas, timezone/language
 - Link to past work (if any)
 
@@ -611,7 +611,7 @@ A: No limits on general Scouts. Ambassador slots are capped (current: 83 total a
 - **Content Submission**: [Submit work for review →](/scout/submit)
 - **Ambassador Apply**: [Join the team →](/scout/ambassador-apply)
 - **Marketing Assets**: [Download materials →](/scout/resources)
-- **Scout Community**: [Discord channel →](https://discord.gg/suisentinel-scouts)
+- **Scout Community**: [Discord channel →](https://discord.gg/redsentinel-scouts)
 
 ---
 
